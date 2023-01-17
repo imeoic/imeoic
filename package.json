@@ -1,0 +1,15 @@
+{
+  "name": "noci",
+  "version": "0.0.1",
+  "description": "Noci - Integrated Management Environment for OI Contest",
+  "main": "index.js",
+  "bin": {
+    "noci": "./index.js"
+  },
+  "author": "Sukwants",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "fs-extra": "^11.1.0"
+  }
+}

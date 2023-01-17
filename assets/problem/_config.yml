@@ -1,0 +1,34 @@
+# ===============================================================
+# Noci - Problem
+# Author: Sukwants, zhang_yt, yolanda_yxr, zsq147258369
+# See: https://github.com/Sukwants/Noci/#readme
+# ===============================================================
+
+
+# ---------------------------------------------------------------
+# Problem Information
+# ---------------------------------------------------------------
+
+# Basic Information
+title: 题目
+file: problem
+author:                   # (optional)
+
+# Statement Particular
+type: traditional
+#type: interactive
+#type: communication
+#type: answer_submitting
+type_notice: false        # Notice the problem type in front of the problem description.
+file_io: true             # Notice the IO methods in the front if the IO format.
+
+# Judgement Settings
+time_limit: 1 秒
+memory_limit: 512 MB
+n_tests: 20
+n_subtasks:               # (optional)
+
+# Samples Settings
+n_samples: 3
+displayed:
+  - 1
