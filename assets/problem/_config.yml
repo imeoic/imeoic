@@ -40,7 +40,7 @@ tests:
 subtasks:                 # (optional)
     #- tests: 1
     #  score: 40
-    #- tests: 1
+    #- tests: 2
     #  score: 60
 
 # Samples Settings
