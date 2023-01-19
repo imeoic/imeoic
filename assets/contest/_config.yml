@@ -1,6 +1,6 @@
 # ===============================================================
 # Noci - OI Contest
-# Author: Sukwants, zhang_yt, yolanda_yxr, zsq147258369
+# Author: Noci Development Team
 # See: https://github.com/Sukwants/Noci/#readme
 # ===============================================================
 
@@ -23,6 +23,7 @@ subtitle: Step up a New Step
 author: NCOI Team
 time_st: 1926-08-17 08:30:00
 time_fn: 1926-08-17 13:30:00
+#language: zh-CN
 
 # Language & Compile Information
 laguage:
