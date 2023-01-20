@@ -26,3 +26,8 @@ statement:
   in_directory: 见选手目录下的 %s 与 %s。
   data_convention: 数据约定
   hint: 提示
+
+particular:
+  type_notice: 这是一道 %s。
+  fin_notice: 从文件 %s 中读入数据。
+  fout_notice: 输出到文件 %s 中。
