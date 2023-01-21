@@ -19,14 +19,11 @@ version: 0.0.1    # Noci version number
 # Contest Basic Information
 # Subtitle and Author are optional.
 title: NCOI Round 114514
-subtitle: Step up a New Step
 author: NCOI Team
-time_st: 1926-08-17 08:30
-time_fn: 1926-08-17 13:30
 language: zh-CN
 
-# Language & Compile Information
-laguage:
+# Languages & Compile Information
+languages:
   C++: -O2 -std=c++14
 
 # Notes
@@ -45,15 +42,23 @@ notes:
 
 # Days & Problems Information
 days:
-  - title: Day 1
-    directory: Day1 
+  day1:
+    title: Day 1
+    author:
+    time_st: 1926-08-17 08:30
+    time_fn: 1926-08-17 13:30
     problems:
       - A
     #  - B
     #  - C
-  #- title: Day 2
-  #  dirctory: Day2
+    notes:
+  #day2:
+  #  title: Day 2
+  #  author:
+  #  time_st: 1926-08-18 08:30
+  #  time_fn: 1926-08-18 13:30
   #  problems:
   #    - E
   #    - F
   #    - G
+  #  notes:

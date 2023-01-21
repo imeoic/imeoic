@@ -38,10 +38,10 @@ tests:
     #- 33
     #- 34
 subtasks:                 # (optional)
-    #- tests: 1
-    #  score: 40
-    #- tests: 2
-    #  score: 60
+  #- tests: 1
+  #  score: 40
+  #- tests: 2
+  #  score: 60
 
 # Samples Settings
 samples:

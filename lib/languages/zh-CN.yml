@@ -1,3 +1,16 @@
+units:
+  s: %s 秒
+  MB: %s MB
+
+words:
+  true: 是
+  false: 否
+  types:
+    traditional: 传统题
+    interactive: 交互题
+    communication: 通信题
+    submitting: 提交答案题
+
 cover:
   time: <font style="font-weight:bold">时间：</font><math><mn>%s</mn></math> 年 <math><mn>%s</mn></math> 月 <math><mn>%s</mn></math> 日 <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math> <math><mo>&#x223C;</mo></math> <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math>
   time_nad: <font style="font-weight:bold">时间：</font><math><mn>%s</mn></math> 年 <math><mn>%s</mn></math> 月 <math><mn>%s</mn></math> 日 <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math> <math><mo>&#x223C;</mo></math> <math><mn>%s</mn></math> 年 <math><mn>%s</mn></math> 月 <math><mn>%s</mn></math> 日 <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math>
@@ -10,7 +23,9 @@ cover:
   memory_limit: 空间限制
   tests_quantity: 测试点数
   subtasks_quantity: 子任务数
-  socres_equal: 是否等分
+  scores_equal: 是否等分
+  source_name: 提交源程序名
+  compile_option: 编译选项
   for_language: 对于 %s 语言
   notes: 注意事项（请仔细阅读）
 
@@ -36,6 +51,6 @@ particular:
     traditional: 传统题
     interactive: 交互题
     communication: 通信题
-  submitting: 提交答案题
+    submitting: 提交答案题
   fin_notice: 从文件 %s 中读入数据。
   fout_notice: 输出到文件 %s 中。
