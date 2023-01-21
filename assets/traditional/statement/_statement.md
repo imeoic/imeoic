@@ -32,6 +32,6 @@
 
 <!--beghint-->
 
-Noci: <https://github.com/Noci-Dev/Noci>
+Imeoic: <https://github.com/imeoic/imeoic>
 
 <!--endhint-->

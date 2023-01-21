@@ -1,19 +1,19 @@
 {
-  "name": "noci",
-  "version": "0.1.0",
-  "description": "Noci - Integrated Management Environment for OI Contest",
+  "name": "imeoic",
+  "version": "0.2.0",
+  "description": "Imeoic - Integrated Management Environment for OI Contest",
   "main": "lib/index.js",
   "bin": {
-    "noci": "./lib/index.js"
+    "imeoic": "./lib/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Noci-Dev/Noci.git"
+    "url": "git+https://github.com/imeoic/imeoic.git"
   },
   "keywords": [
     "OI",
     "cli",
-    "noci"
+    "imeoic"
   ],
   "author": "Sukwants",
   "contributors": [
@@ -23,9 +23,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Noci-Dev/Noci/issues"
+    "url": "https://github.com/imeoic/imeoic/issues"
   },
-  "homepage": "https://github.com/Noci-Dev/Noci",
+  "homepage": "https://github.com/imeoic/imeoic",
   "dependencies": {
     "commander": "^10.0.0",
     "fs-extra": "^11.1.0",
