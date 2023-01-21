@@ -21,8 +21,8 @@ version: 0.0.1    # Noci version number
 title: NCOI Round 114514
 subtitle: Step up a New Step
 author: NCOI Team
-time_st: 1926-08-17 08:30:00
-time_fn: 1926-08-17 13:30:00
+time_st: 1926-08-17 08:30
+time_fn: 1926-08-17 13:30
 language: zh-CN
 
 # Language & Compile Information

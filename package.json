@@ -2,15 +2,34 @@
   "name": "noci",
   "version": "0.0.1",
   "description": "Noci - Integrated Management Environment for OI Contest",
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
-    "noci": "./index.js"
+    "noci": "./lib/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noci-Dev/Noci.git"
+  },
+  "keywords": [
+    "OI",
+    "cli",
+    "noci"
+  ],
   "author": "Sukwants",
+  "contributors": [
+    "zhangyt",
+    "yolanda",
+    "zsq147258369"
+  ],
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Noci-Dev/Noci/issues"
+  },
+  "homepage": "https://github.com/Noci-Dev/Noci",
   "dependencies": {
     "commander": "^10.0.0",
     "fs-extra": "^11.1.0",
+    "moment": "^2.29.4",
     "yamljs": "^0.3.0"
   }
 }

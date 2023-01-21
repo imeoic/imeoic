@@ -1,5 +1,6 @@
 cover:
-  time: 时间
+  time: <font style="font-weight:bold">时间：</font><math><mn>%s</mn></math> 年 <math><mn>%s</mn></math> 月 <math><mn>%s</mn></math> 日 <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math> <math><mo>&#x223C;</mo></math> <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math>
+  time_nad: <font style="font-weight:bold">时间：</font><math><mn>%s</mn></math> 年 <math><mn>%s</mn></math> 月 <math><mn>%s</mn></math> 日 <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math> <math><mo>&#x223C;</mo></math> <math><mn>%s</mn></math> 年 <math><mn>%s</mn></math> 月 <math><mn>%s</mn></math> 日 <math><mn>%s</mn><mo>:</mo><mn>%s</mn></math>
   problem_name: 题目名称
   problem_type: 题目类型
   english_name: 题目英文
@@ -10,7 +11,7 @@ cover:
   tests_quantity: 测试点数
   subtasks_quantity: 子任务数
   socres_equal: 是否等分
-  for_xx_language: 对于 %s 语言
+  for_language: 对于 %s 语言
   notes: 注意事项（请仔细阅读）
 
 statement:
@@ -30,10 +31,11 @@ statement:
   hint: 提示
 
 particular:
-  type_notice: 这是一道 %s。
-  traditional: 传统题
-  interactive: 交互题
-  communication: 通信题
+  type_notice: 这是一道%s。
+  types:
+    traditional: 传统题
+    interactive: 交互题
+    communication: 通信题
   submitting: 提交答案题
   fin_notice: 从文件 %s 中读入数据。
   fout_notice: 输出到文件 %s 中。
