@@ -1,6 +1,6 @@
 {
   "name": "noci",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Noci - Integrated Management Environment for OI Contest",
   "main": "lib/index.js",
   "bin": {
